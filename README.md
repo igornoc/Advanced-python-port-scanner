@@ -51,7 +51,7 @@ Example output from scanning a safe public test host.
 Clone the repository:
 
 ```bash
-git clone https://github.com/supnrm02-cmd/Advanced-python-port-scanner.git
+git clone https://github.com/igornoc/Advanced-python-port-scanner.git
 cd Advanced-python-port-scanner
 ```
 
