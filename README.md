@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Cybersecurity](https://img.shields.io/badge/Domain-Cybersecurity-red)
 ![Networking](https://img.shields.io/badge/Focus-Network%20Scanning-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+
 
 ![GitHub stars](https://img.shields.io/github/stars/igornoc/Advanced-python-port-scanner)
 ![GitHub forks](https://img.shields.io/github/forks/igornoc/Advanced-python-port-scanner)
